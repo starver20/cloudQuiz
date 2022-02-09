@@ -53,6 +53,25 @@
 body {
   background-color: var(--background-color);
 }
+
+.main-content {
+  min-height: calc(100vh - 50px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  background-color: var(--primary-color);
+  font-size: var(--body-3);
+  font-weight: 500;
+  min-width: 10rem;
+}
+
+.btn:hover {
+  background-color: var(--secondary-color);
+}
+
 /* 
 @media (max-width: 1024px) {
   :root {
