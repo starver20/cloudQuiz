@@ -1,0 +1,34 @@
+.quiz-layout {
+  padding: 1rem;
+}
+
+.quiz-layout > * {
+  margin-bottom: var(--spacing-20);
+}
+
+.quiz-layout h1 {
+  font-size: var(--header-2);
+  font-weight: 600;
+
+  text-align: center;
+}
+
+.quiz-layout ul li {
+  font-size: var(--body-2);
+  list-style: none;
+  margin-bottom: var(--spacing-4);
+}
+
+.quiz-layout div {
+  text-align: center;
+}
+
+.btn {
+  font-size: var(--body-1);
+}
+
+@media (max-width: 830px) {
+  .quiz-layout ul {
+    text-align: center;
+  }
+}
