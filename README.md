@@ -31,4 +31,4 @@ Click [here](https://cloud-quiz.netlify.app/) to navigate to the website.
 ![Screenshot](./assets/home.png)
 ![Screenshot](./assets/question.png)
 ![Screenshot](./assets/results.png)
-![Screenshot](./assets/rule.png)
+![Screenshot](./assets/rules.png)
